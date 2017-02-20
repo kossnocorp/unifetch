@@ -1,0 +1,10 @@
+{
+  "name": "unifetch",
+  "version": "0.1.0",
+  "main": "node.js",
+  "browser": "browser.js",
+  "peerDependencies": {
+    "node-fetch": "*"
+  },
+  "license": "MIT"
+}
